@@ -1,0 +1,6 @@
+br/com/lilyts/Lilyts/controller/HelloWorldController.class
+br/com/lilyts/Lilyts/entities/Sales.class
+br/com/lilyts/Lilyts/enums/IsSales.class
+br/com/lilyts/Lilyts/LilytsApplication.class
+br/com/lilyts/Lilyts/config/TestInsertDB.class
+br/com/lilyts/Lilyts/repository/SalesReposiitory.class
