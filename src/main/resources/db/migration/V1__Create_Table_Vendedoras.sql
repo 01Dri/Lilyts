@@ -5,7 +5,7 @@ CREATE TABLE vendedoras (
     cpf VARCHAR(14) NOT NULL ,
     telefone_whatsapp VARCHAR(20) ,
     data_nascimento DATE NOT NULL ,
-    trabalha_com_venda_direta ENUM('Sim', 'Não') NOT NULL ,
+    trabalha_com_venda_direta ENUM('YES', 'NO') NOT NULL ,
     documento_pessoal BLOB NOT NULL ,
     comprovante_residencia BLOB NOT NULL
 );
